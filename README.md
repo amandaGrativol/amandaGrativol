@@ -19,12 +19,12 @@ Entre em contato ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://is.gd/emailamanda" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-grativol/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://l.instagram.com/?u=https%3A%2F%2Fw.app%2FqEugFV%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAabAYSMqWw6c8seh5CcT0N1eunZ0_SaWo7GRvvxlVYsdTLtNuyB4E814V8Q_aem_s8lDupPuT-wv9t8ZzdMSuQ&e=AT2mM6dvVjj3sf6KfzIttL3RSdIVYGprWUD920AYKTPszE5ye-kHmmUCcFXsb1lKxCw-eHT-oycQsx-R8siQ5aJ2FGEaBvOBpSIYYw" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/amanda_grativol/" alt="Instagram"/></a>
+  <a href="https://is.gd/emailamanda" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://is.gd/emailamanda alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/amanda-grativol/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-grativol/ alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=+5519971697326&text=Quero+unhas+tra%C3%A7os+perfeitos%21" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5519971697326&text=Quero+unhas+tra%C3%A7os+perfeitos%21 alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/amanda_grativol/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/amanda_grativol/ alt="Instagram"/></a>
 </p>
