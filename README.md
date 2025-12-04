@@ -1,16 +1,30 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-Olá, meu nome é Amanda Grativol e sou uma desenvolvedora apaixonada por software e tecnologia. Atualmente, estou no quarto período da faculdade de Engenharia de Software e busco sempre aprimorar minhas habilidades na área de desenvolvimento de sistemas.
-</p>
+# 👋 Olá! Eu sou a Amanda
 
-<p align="left">
-  🦄 Linguagens: Kotlin, Java, JavaScript/HTML/CSS, SQL, Python.
-</p>
+🎓 Estudante de Engenharia de Software (4º semestre) e Gestão de TI (2º semestre)  
+💻 Desenvolvedora Fullstack em formação, com foco em Java  
+📍 Campinas – SP  
 
-<p align="left">
-  💼 Ferramentas: Android Studio, Git, Visual Studio Code, Anaconda/Jupyter Notebook, Docker.
-</p>
+## 🚀 Sobre mim
+Sou estudante da área de tecnologia, com 1 ano de experiência em estágio de suporte em ambiente corporativo público.  
+Atualmente, estou em transição para desenvolvimento de software, com foco em backend Java e construção de aplicações web.
 
-<p align="left">
-  💌 Atualmente, estou me dedicando ao desenvolvimento de aplicações móveis e me preparando para ingressar no mercado de trabalho como freelancer em TI. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
+Tenho interesse em atuar como **Desenvolvedora Java Júnior / Estágio em Desenvolvimento**, sempre buscando escrever código limpo, organizado e bem versionado.
+
+## 🛠️ Tecnologias
+- **Backend:** Java | POO | Collections | SQL  
+- **Frontend:** HTML | CSS | JavaScript  
+- **Banco de Dados:** MySQL | SQLite  
+- **Ferramentas:** Git | GitHub | IntelliJ | VS Code  
+
+## 📌 Projetos
+- Sistemas desenvolvidos em Java  
+- Aplicações web fullstack  
+- Projetos acadêmicos e práticos focados em aprendizado
+
+## 🌱 Atualmente estudando
+- Java avançado  
+- Spring Boot e APIs REST  
+- Boas práticas e arquitetura
+
